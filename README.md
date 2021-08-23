@@ -10,7 +10,9 @@ kullanmayı denediğinizde türkçe karakterleri bozuk bir şekilde yansıtıyor
 # Uygulamanın işleyişi nasıl?
 Uygulamanın ".exe" uzantılı dosyasını çalıştırınca ekrana "Türkçe karakterleri değiştir" isimli form çıkar. Form üzerindeki "Altyazıyı Bul" isimli buton aracılığı ile 
 bilgisarımızda bulunan ve karakterlerini değiştirmek istediğimiz metin dosyanını seçeriz. Dosya seçildikten sonra form üzerinde bulunan iki adet "textbox" üzerinde dosyanın
-uzantısı ile birlikte tam adını ve dosya yolunu teyit amaçlı kontrol edebiliyoruz. Kontrolleri sağladıktan sonra yine form üzerindeki "Değiştir" isimlik buton ile karakterleri 
+uzantısı ile birlikte tam adını ve dosya yolunu teyit amaçlı kontrol edebiliyoruz. Kontrolleri sağladıktan sonra yine form üzerindeki "Değiştir" isimli buton ile karakterleri 
 değiştirme işlemini gerçekleştiriyoruz.
+
+## Nasıl kullanılır?
 
 <img src="https://s9.gifyu.com/images/ezgif.com-gif-makerde3f6b57ad760af2.gif" width=600px />
